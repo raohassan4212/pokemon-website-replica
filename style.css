@@ -216,3 +216,135 @@
 #td-7 {
     background-color: blue;
 }
+
+/* nav bar end */
+
+#image-div {
+    margin-top: 50px;
+    height: 900px;
+}
+
+.bg {
+    background-color: dodgerblue;
+}
+
+.bold-para {
+    font-size: 23px;
+    color: white;
+}
+
+.bg-2 {
+    background-color: rgb(37, 31, 31);
+    color: white;
+}
+
+.aliment-1 {
+    position: relative;
+    left: 200px;
+}
+
+.aliment-2 {
+    position: relative;
+    left: 800px;
+    bottom: 505px;
+}
+
+.text-2 {
+    font-size: 22px;
+}
+
+.bg-3 {
+    background-color: rgb(47, 47, 216);
+    color: white;
+}
+
+.text-3 {
+    font-size: 22px;
+}
+
+.aliment-3 {
+    position: relative;
+    left: 800px;
+    bottom: 490px;
+}
+
+.aliment-4 {
+    position: relative;
+    bottom: 580px;
+    left: 200px;
+}
+
+.text-4 {
+    font-size: 22px;
+    color: black;
+} 
+
+.bg-4 {
+    background-color: rgb(175, 174, 174);
+}
+
+.aliment-5 {
+    position: relative;
+    bottom: 947px;
+    left: 500px;
+}
+
+.bg-5 {
+    background-color: rgb(245, 93, 38);
+}
+
+.text-5 {
+    font-size: 22px;
+    color: white;
+}
+
+.aliment-6 {
+    position: relative;
+    bottom: 1140px;
+    left: 800px;
+}
+
+.bg-6 {
+    background-color: rgba(197, 197, 28, 0.945);
+    position: relative;
+    left: 127px;
+    bottom: 170px;
+    width: 163px;
+    height: 170px;
+}
+
+.text-6 {
+    font-size: 22px;
+    color: white;
+}
+
+.tp-1:hover {
+    position: relative;
+    bottom: 10px;
+}
+
+.tp-2:hover {
+    position: relative;
+    bottom: 515px;
+}
+
+.tp-3:hover {
+    position: relative;
+    bottom: 500px;
+}
+
+.tp-4:hover {
+    position: relative;
+    bottom: 590px;
+}
+
+.tp-5:hover {
+    position: relative;
+    bottom: 957px;
+}
+
+.tp-6:hover {
+    position: relative;
+    bottom: 1150px;
+}
+
