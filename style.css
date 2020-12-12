@@ -1,0 +1,218 @@
+/* nav bar */
+#nav-bar {
+    background-color: #edf3f1;
+    border-top: 1px solid #EEECEB;
+    border-bottom: 1px solid lightgray;
+    height: 70px;
+}
+
+.nav-li {
+    display: inline-block;
+    position: relative;
+    left: 200px; 
+    top: -2px;
+}
+
+.bg-color {
+    background-color: white;
+    height: 65px;
+    width: 100px;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.bg-color>img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#voltage {
+    width: 170px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+#crown {
+    width: 170px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+#secret {
+    width: 170px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.border {
+    border: 2px solid rgb(223, 217, 217) !important;
+    height: 60px;
+    
+}
+
+
+
+@media only screen and (max-width: 1082px) {
+    .nav-ul {
+        position: relative;
+        right: 80px;
+    }
+}
+
+@media only screen and (max-width: 1030px) {
+    .nav-ul {
+        position: relative;
+        right: 130px;
+    }
+}
+
+@media only screen and (max-width: 965px) {
+    .nav-ul {
+        position: relative;
+        right: 160px;
+    }
+}
+
+@media only screen and (max-width: 920px) {
+    .nav-ul {
+        position: relative;
+        right: 200px;
+    }
+}
+
+@media only screen and (max-width: 870px) {
+    .nav-ul {
+        position: relative;
+        right: 230px;
+    }
+}
+
+@media only screen and (max-width: 838px) {
+    #secret {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 663px) {
+    #crown {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 489px) {
+    #voltage {
+        display: none;
+    }
+}
+
+#voltage:hover  {
+    filter: blur(2px);
+}
+
+#secret:hover  {
+    filter: blur(2px);
+}
+
+#crown:hover  {
+    filter: blur(2px);
+}
+
+.border>img:hover {
+    padding-top: 10px;
+}
+
+.nav-tbl {
+    margin: auto;
+}
+
+.nav-tbl-th {
+    width: 125px;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.rabbit {
+    background-color: rgba(116, 116, 116, 0.74);
+    color: white;
+    font-weight: lighter;
+    font-size: 14px;
+    height: 100px;
+}
+
+.tv {
+    padding-bottom: 18px;
+}
+
+.ball {
+    padding-bottom: 15px;
+}
+
+#nav-bar-2 {
+    border-bottom: 1px solid rgb(216, 214, 214);    
+}
+
+.ball:hover {
+    background-color: orangered;
+    color: white;
+}
+
+.plus:hover {
+    background-color: rgb(253, 106, 53);
+    color: white;
+}
+
+.card:hover {
+    background-color: rgb(233, 233, 74);
+    color: white;
+}
+
+.card-w {
+    width: 30px;
+    position: relative;
+    left: 45px;
+    top: 10px;
+}
+
+.tv:hover {
+    background-color: green;
+    color: white;
+}
+
+.event:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.news:hover {
+    background-color: blue;
+    color: white;
+}
+
+#td-1 {
+    background-color: rgba(116, 116, 116, 0.74);
+    height: 7px;
+}
+
+#td-2 {
+    background-color: orangered;
+}
+
+#td-3 {
+    background-color: rgb(253, 106, 53);
+}
+
+#td-4 {
+    background-color: rgb(233, 233, 74);
+}
+
+#td-5 {
+    background-color: green;
+}
+
+#td-6 {
+    background-color: dodgerblue;
+}
+
+#td-7 {
+    background-color: blue;
+}
