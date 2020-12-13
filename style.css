@@ -348,3 +348,45 @@
     bottom: 1150px;
 }
 
+#same {
+    display: inline-block;
+}
+
+#slide-div {
+
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.slide-bg {
+    background-color: gray;
+}
+
+.slide-text {
+    font-size: 22px;
+    color: white;
+}
+
+.ball-featured {
+    position: relative;
+    left: 364px;
+    top: 48px;
+    width: 285px;
+}
+
+#explore {
+    background-color: rgba(51, 46, 46, 0.795);
+    width: 280px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+    left: 600px;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+#explore>p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
